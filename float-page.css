@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  padding-left: 90px;
+  padding-right: 90px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.left_0, .left_1 {
+
+	height: 250px;
+	width: 250px;
+	margin-top: 20px;
+}
+.left_0 {
+
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+
+}
+
+.left_1 {
+
+	float: right;
+	margin-left: 20px;
+}
+
